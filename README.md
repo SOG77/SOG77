@@ -55,7 +55,7 @@ Me enfoco en desarrollar **aplicaciones web funcionales**, entendiendo tanto la 
 ### 🔹 Sistema de Gestión
 📌 Aplicación para manejo de usuarios y datos  
 🛠️ **Java | HTML | CSS | JavaScript**  
-🔗 Repositorio: [Ver proyecto](https://github.com/SOG77)
+🔗 Repositorio: [Ver proyecto](https://github.com/SOG77/Gestion-Usuarios.git)
 
 ---
 
