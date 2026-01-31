@@ -59,20 +59,6 @@ Me enfoco en desarrollar **aplicaciones web funcionales**, entendiendo tanto la 
 
 ---
 
-### 🔹 Aplicación Web Frontend
-📌 Interfaz moderna y responsive  
-🛠️ **React / Angular | CSS | JavaScript**  
-🔗 Repositorio: [Ver proyecto](https://github.com/SOG77)
-
----
-
-### 🔹 Proyecto Backend
-📌 Lógica de negocio y procesamiento de datos  
-🛠️ **Python / Java**  
-🔗 Repositorio: [Ver proyecto](https://github.com/SOG77)
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
