@@ -90,11 +90,11 @@ Me enfoco en desarrollar **aplicaciones web funcionales**, entendiendo tanto la 
 
 <div align="center">
 
-<a href="https://facebook.com/tu_usuario">
+<a href="https://www.facebook.com/sebastian.ospina.28/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/tu_usuario">
+<a href="www.linkedin.com/in/sebastián-ospina-guevara-773560245">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
