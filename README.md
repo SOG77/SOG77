@@ -52,8 +52,6 @@ Me enfoco en desarrollar **aplicaciones web funcionales**, entendiendo tanto la 
 
 ## ⭐ Proyectos Destacados
 
-> *(Ejemplos de estructura — puedes reemplazar o renombrar según tus repos reales)*
-
 ### 🔹 Sistema de Gestión
 📌 Aplicación para manejo de usuarios y datos  
 🛠️ **Java | HTML | CSS | JavaScript**  
