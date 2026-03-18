@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mí
 
-🎂 **24 años**  
+🎂 **25 años**  
 💡 **Programador de software Backend y Frontend**  
 📚 Nivel **Junior**, con bases sólidas y enfoque en buenas prácticas  
 🚀 Motivado por aprender, construir proyectos reales y crecer profesionalmente
