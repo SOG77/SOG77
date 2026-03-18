@@ -18,8 +18,6 @@
 
 Me enfoco en desarrollar **aplicaciones web funcionales**, entendiendo tanto la lógica del **backend** como la experiencia del **frontend**, buscando siempre código claro, mantenible y bien estructurado.
 
-> (Opcional comunidad) Si prefieres, puedes reemplazar “25 años” por algo más útil para colaborar:
-> **🌎 Colombia | 🕒 GMT-5** (o tu ciudad/zona horaria).
 
 ---
 
@@ -79,15 +77,6 @@ Quiero crecer participando en proyectos open source y colaborando con la comunid
 📌 Aplicación para manejo de usuarios y datos  
 🛠️ **Java | HTML | CSS | JavaScript**  
 🔗 Repositorio: [Ver proyecto](https://github.com/SOG77/Gestion-Usuarios.git)
-
-**Qué encontrarás en este repo:**
-- CRUD / manejo de datos y lógica de negocio (base para crecer a API REST)
-- Enfoque en estructura y práctica con tecnologías web
-
-**Ideas de contribución (para comunidad):**
-- Mejorar el README con instalación + capturas + ejemplo de uso
-- Agregar validaciones / manejo de errores
-- Crear issues “good first issue” para que otras personas contribuyan
 
 ---
 
