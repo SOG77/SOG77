@@ -18,6 +18,9 @@
 
 Me enfoco en desarrollar **aplicaciones web funcionales**, entendiendo tanto la lógica del **backend** como la experiencia del **frontend**, buscando siempre código claro, mantenible y bien estructurado.
 
+> (Opcional comunidad) Si prefieres, puedes reemplazar “25 años” por algo más útil para colaborar:
+> **🌎 Colombia | 🕒 GMT-5** (o tu ciudad/zona horaria).
+
 ---
 
 ## 🛠️ Tecnologías que manejo
@@ -50,12 +53,41 @@ Me enfoco en desarrollar **aplicaciones web funcionales**, entendiendo tanto la 
 
 ---
 
+## 🤝 Open Source / Comunidad
+
+Quiero crecer participando en proyectos open source y colaborando con la comunidad.
+
+**Me interesa contribuir en:**
+- **Backend (Java / Python):** APIs REST, refactors, buenas prácticas, mejoras de estructura
+- **Frontend (React / Angular):** UI, consumo de APIs, componentes reutilizables
+- **Documentación:** README, guías de instalación, ejemplos de uso
+
+**¿En qué puedo ayudar?**
+- Issues *good first issue* / bugs pequeños
+- Mejoras de documentación y claridad del proyecto
+- PRs de refactor y limpieza de código (cuando aplique)
+
+**¿Cómo colaborar conmigo?**
+- Puedes **abrir un Issue** en mis repos con: contexto, objetivo y propuesta
+- Si quieres aportar y no sabes por dónde empezar, escríbeme: **“quiero contribuir”** y te marco una tarea
+
+---
+
 ## ⭐ Proyectos Destacados
 
 ### 🔹 Sistema de Gestión
 📌 Aplicación para manejo de usuarios y datos  
 🛠️ **Java | HTML | CSS | JavaScript**  
 🔗 Repositorio: [Ver proyecto](https://github.com/SOG77/Gestion-Usuarios.git)
+
+**Qué encontrarás en este repo:**
+- CRUD / manejo de datos y lógica de negocio (base para crecer a API REST)
+- Enfoque en estructura y práctica con tecnologías web
+
+**Ideas de contribución (para comunidad):**
+- Mejorar el README con instalación + capturas + ejemplo de uso
+- Agregar validaciones / manejo de errores
+- Crear issues “good first issue” para que otras personas contribuyan
 
 ---
 
@@ -78,7 +110,7 @@ Me enfoco en desarrollar **aplicaciones web funcionales**, entendiendo tanto la 
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/sebastián-ospina-guevara-773560245">
+<a href="https://www.linkedin.com/in/sebastián-ospina-guevara-773560245">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
